@@ -1,0 +1,20 @@
+{
+  "name": "tsx-wxml-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuqinggang",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^5.5.3",
+    "acorn-jsx": "^4.1.1",
+    "ramda": "^0.25.0",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.1.0"
+  }
+}
